@@ -383,13 +383,6 @@ summary = summarize(descs)                   # 按时间线汇总
 
 <div class="text-xs op-50 mt-1">27 帧逐帧分析 · 总耗时约 1~2 分钟</div>
 
-<video
-  src="/pizza_party.mp4"
-  controls
-  class="mt-4 rounded-lg"
-  style="width: 75%; aspect-ratio: 4/3; object-fit: contain;"
-/>
-
 ::right::
 
 <div class="pl-6" style="font-size: 0.5rem; line-height: 1.5; margin-top: 3rem;">
